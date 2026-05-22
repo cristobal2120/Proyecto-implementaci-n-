@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.production.example
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+*.key
+*.pem
